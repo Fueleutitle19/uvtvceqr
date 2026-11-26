@@ -1,0 +1,26 @@
+{
+  "repo": "vmix-professional-live-production",
+  "product": "Vmix Pro Live Production",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "vmix-pro-live-production",
+    "vmix-live-production",
+    "vmix-live-pro",
+    "live-production",
+    "video-switching",
+    "ndi-workflow",
+    "live-stream",
+    "how-to-install-vmix-live-pro",
+    "how-to-setup-vmix-live-pro",
+    "desktop-package",
+    "windows-11",
+    "windows-10"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Vmix Pro Live Production"
+}
